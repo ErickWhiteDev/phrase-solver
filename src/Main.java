@@ -1,6 +1,4 @@
-package assignments.java.phrase_solver_experimental.src;
-
-import assignments.java.phrase_solver_experimental.src.game.*; //Phrase, Player, and PhraseSolver classes
+import game.PhraseSolver;
 
 public class Main {
 

@@ -1,6 +1,6 @@
-package assignments.java.phrase_solver_experimental.src.game;
+package game;
 
-import assignments.java.phrase_solver_experimental.src.game.setup.*; //Phrase and Player classes
+import game.setup.*; //Phrase and Player classes
 
 import java.util.Scanner;
 import java.util.ArrayList;

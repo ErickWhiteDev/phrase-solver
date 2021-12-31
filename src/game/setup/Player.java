@@ -1,4 +1,4 @@
-package assignments.java.phrase_solver_experimental.src.game.setup;
+package game.setup;
 
 public class Player {
     
